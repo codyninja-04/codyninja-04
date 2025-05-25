@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @codyninja-04
+- 👋 Hi, I’m Anand
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning python +html
+- 🌱 I’m currently learning css&JS.
 - 💞️ I’m looking to collaborate on websites etc.
 - 📫 How to reach me insta-anand._.rai
 
