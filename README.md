@@ -2,7 +2,6 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning css&JS.
 - 💞️ I’m looking to collaborate on websites etc.
-- 📫 How to reach me insta-anand._.rai
 
 <!---
 codyninja-04/codyninja-04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
