@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Anand and I,m currently focused on improving my skills in web development</h2>
+<h2 align="left">Hi 👋! My name is Anand and I'm currently focused on improving my skills in web development</h2>
 
 ###
 
