@@ -2,7 +2,7 @@
 
 **Web Developer · Computer Engineering Graduate · Singapore**
 
-I build clean, responsive web applications that solve real problems. Fresh diploma graduate from **Temasek Polytechnic** looking to contribute to a team that ships fast and values good code.
+I build clean, responsive web applications that solve real problems. 
 
 ---
 
