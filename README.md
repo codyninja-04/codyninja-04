@@ -6,7 +6,7 @@ I build clean, responsive web applications that solve real problems.
 
 ---
 
-## What I work with
+### What I work with
 
 **Frontend** → HTML · CSS · JavaScript · React · Next.js · Tailwind CSS · TypeScript  
 **Backend** → Node.js · Express · MongoDB · Firebase · REST APIs · Python  
