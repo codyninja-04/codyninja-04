@@ -1,4 +1,4 @@
-# Hey I'm Anand 👋
+# Hey, I'm Anand 👋
 
 **Web Developer · Computer Engineering Graduate · Singapore**
 
