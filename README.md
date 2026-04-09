@@ -2,7 +2,7 @@
 
 **Web Developer · Computer Engineering Graduate · Singapore**
 
-I build clean, responsive web applications that solve real problems. 
+I build clean, responsive web applications that solve real problems.
 
 ---
 
