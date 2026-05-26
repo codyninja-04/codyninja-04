@@ -1,178 +1,189 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:00C9A7&height=200&section=header&text=Anand%20Harsh%20Vardhan%20Rai&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20IoT%20Engineer%20%7C%20Open%20to%20Work&descAlignY=58&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Anand%20Harsh%20Vardhan%20Rai&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%94%20I%20build%20things%20people%20actually%20use&descAlignY=60&descSize=15&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=620&lines=Building+real+things+with+code.;Full+Stack+%2B+IoT+%2B+CI%2FCD+pipelines.;Computer+Engineering+grad+%40+Temasek+Poly.;Actively+seeking+roles+in+Singapore.)](https://git.io/typing-svg)
+</div>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anand%20Harsh%20Vardhan%20Rai-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anand-harsh-vardhan-rai-a1a17a1ab)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00C9A7?style=flat-square&logo=vercel&logoColor=white)](https://personal-gym-dashboard-liard.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Drop%20a%20line-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anandharshvardhanrai@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-codyninja--04-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/codyninja-04)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=React+%7C+Node.js+%7C+Python+%7C+Full+Stack;Turning+ideas+into+shipped+products.;Open+to+Software+Engineer+roles+in+Singapore.;Let%27s+build+something+worth+using.)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anand-harsh-vardhan-rai-a1a17a1ab)&nbsp;
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anandharshvardhanrai@gmail.com)&nbsp;
+[![Open to Work](https://img.shields.io/badge/-Open%20To%20Work-16a34a?style=for-the-badge&logo=checkmarx&logoColor=white)](#)
 
 </div>
 
 ---
 
-## `whoami`
+<br/>
 
-```bash
-$ cat about.json
+```javascript
+const anand = {
+  role      : "Full Stack Developer",
+  education : "Diploma in Computer Engineering @ Temasek Polytechnic '25",
+  location  : "Singapore 🇸🇬",
+  looking   : ["Software Engineer", "Full Stack Developer"],
+  stack     : ["React", "Node.js", "Python", "PostgreSQL", "MongoDB"],
+  principle : "Ship fast. Iterate faster. Write code that doesn't need explaining.",
+};
 ```
 
-```json
-{
-  "name": "Anand Harsh Vardhan Rai",
-  "role": "Full Stack Developer + IoT Engineer",
-  "education": "Diploma in Computer Engineering — Temasek Polytechnic, Singapore (2025)",
-  "status": "Open to work · Applying for LTVP · Based in Singapore",
-  "interests": ["Web Apps", "IoT Systems", "CI/CD", "AI tooling", "Cloud (soon)"],
-  "currently_building": ["PrepSync — AI interview prep platform", "Forge — developer productivity tool"],
-  "fun_fact": "I debug at the gym and lift during deploys."
-}
-```
+<br/>
 
 ---
 
-## 🛠 Tech Stack
+## ⚡ Featured Projects
 
-**Languages**
+<br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-**IoT & Embedded**
-
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipse-mosquitto&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-
-**DevOps & Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
----
-
-## 🚀 Projects
-
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
+
+<div align="center">
 
 ### 🧠 PrepSync
-> AI-powered interview prep platform
 
-Built for engineers who want to stop winging interviews. Generates role-specific questions, tracks your answers, and gives structured feedback.
+**AI-powered interview prep platform**
 
-**Stack:** React · Node.js · OpenAI API · MongoDB
+</div>
 
-[![Live](https://img.shields.io/badge/Live-Demo-00C9A7?style=flat-square&logo=vercel)](https://interview-prep-9xvo.vercel.app)
+Stop memorising. Start understanding. PrepSync generates role-specific interview questions, tracks your responses session by session, and gives structured feedback so you walk into every interview knowing exactly where you stand.
 
-</td>
-<td width="50%" valign="top">
+```
+React · Node.js · OpenAI API · MongoDB
+Express · REST APIs · Vercel
+```
 
-### ⚒️ Forge
-> Developer productivity tool
+<div align="center">
 
-A streamlined workspace that helps devs plan, track, and ship faster — built as a personal tool that actually gets used.
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-%E2%86%97-A78BFA?style=flat-square)](https://interview-prep-9xvo.vercel.app)&nbsp;
+[![Repo](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/codyninja-04)
 
-**Stack:** React · Express · PostgreSQL
-
-[![Repo](https://img.shields.io/badge/View-Repo-181717?style=flat-square&logo=github)](https://github.com/codyninja-04)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💪 Gym Dashboard
-> Personal fitness tracking web app
-
-Full-stack dashboard to track workouts, progressive overload, body metrics, and weekly volume. Built it because spreadsheets were killing me.
-
-**Stack:** React · Node.js · Chart.js · MongoDB
-
-[![Live](https://img.shields.io/badge/Live-Demo-00C9A7?style=flat-square&logo=vercel)](https://personal-gym-dashboard-liard.vercel.app/)
+</div>
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 IoT Monitoring System
-> Real-time sensor data pipeline
+<div align="center">
 
-Internship project — edge devices pushing sensor data via MQTT to a web dashboard. Includes alerting, historical graphs, and CI/CD deployment.
+### 🔥 Forge
 
-**Stack:** Python · MQTT · React · Flask · GitHub Actions
+**Personal fitness dashboard — shared with the crew**
 
-[![Repo](https://img.shields.io/badge/View-Repo-181717?style=flat-square&logo=github)](https://github.com/codyninja-04)
+</div>
+
+Built it because I was tired of spreadsheets at the gym. Forge tracks workouts, progressive overload, and body metrics with clean visual charts. Shared access so friends can track together and compete.
+
+```
+React · Node.js · Chart.js · MongoDB
+Express · REST APIs · Vercel
+```
+
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-%E2%86%97-A78BFA?style=flat-square)](https://personal-gym-dashboard-liard.vercel.app/)&nbsp;
+[![Repo](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/codyninja-04)
+
+</div>
 
 </td>
 </tr>
 </table>
 
+<br/>
+
 ---
 
-## 📊 GitHub Stats
+## 🛠 What I Build With
+
+<br/>
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**Database**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**DevOps & Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+<br/>
+
+---
+
+## 📊 Stats
+
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=codyninja-04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codyninja-04&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=codyninja-04&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codyninja-04&layout=compact&theme=midnight-purple&hide_border=true" height="170"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=codyninja-04&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=codyninja-04&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 </div>
 
----
-
-## 📍 Where I'm At
-
-```
-🎓  Graduated May 2025 — Temasek Polytechnic, Computer Engineering
-📌  Singapore (Student Pass → LTVP in progress)
-💼  Actively interviewing for full-stack / software engineering roles
-🧱  Currently building: PrepSync + Forge
-📚  Learning: TypeScript, Next.js, System Design
-☁️  Next up: AWS + Cloud (once I land the job)
-```
+<br/>
 
 ---
+
+<br/>
 
 <div align="center">
 
-**Open to roles in Singapore — software engineering, full-stack, or IoT. Let's build something.**
+**Software Engineer · Full Stack Developer · Singapore**
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anand-harsh-vardhan-rai-a1a17a1ab)
+*If you're hiring or just want to talk tech — reach out.*
 
-<img src="https://komarev.com/ghpvc/?username=codyninja-04&color=0E75B6&style=flat-square" alt="profile views" />
+[![LinkedIn](https://img.shields.io/badge/Let%27s%20connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anand-harsh-vardhan-rai-a1a17a1ab)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0E75B6&height=100&section=footer" />
+<br/>
+
+![visitors](https://komarev.com/ghpvc/?username=codyninja-04&color=A78BFA&style=flat-square&label=profile+views)
 
 </div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
