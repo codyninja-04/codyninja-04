@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:1e1b4b,80:312e81,100:6366f1&height=240&section=header&text=Anand%20Harsh%20Vardhan%20Rai&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20Engineer%20%E2%80%94%20I%20build%20production%20systems%20that%20stay%20up&descAlignY=62&descSize=15&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:1e1b4b,80:312e81,100:6366f1&height=240&section=header&text=Anand%20Harsh%20Vardhan%20Rai&fontSize=40&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20Engineer%20%E2%80%94%20I%20ship%20production%20systems%20that%20stay%20up&descAlignY=62&descSize=15&animation=fadeIn" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&lines=React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL;6+months+shipping+production+code+at+Willowglen+Services;Computer+Engineering+grad+%40+Temasek+Polytechnic+%E2%80%9926;Open+to+Software+Engineer+%2F+Full+Stack+roles+in+Singapore)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1400&color=A78BFA&center=true&vCenter=true&width=660&lines=React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL;6+months+shipping+production+code+at+Willowglen+Services;Open+to+Software+Engineer+%2F+Full+Stack+roles+in+Singapore)](https://git.io/typing-svg)
 
 <br/>
 
@@ -23,7 +23,52 @@
 
 <br/>
 
-> Full-stack engineer with 6 months of production experience building React dashboards and REST APIs for live industrial systems. Comfortable across the stack — from designing PostgreSQL schemas with Row Level Security to shipping pixel-tight Next.js frontends. I write clean code, ship working features, and care about the details.
+> Full-stack engineer with 6 months of production experience building React dashboards and REST APIs for live industrial systems. I write clean code, ship working features, and care about the details that turn a working app into a real product.
+
+<br/>
+
+---
+
+## ✦ By The Numbers
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### `6 months`
+**Production experience**
+Live industrial systems @ Willowglen
+
+</td>
+<td align="center" width="25%">
+
+### `~40%`
+**Faster operations**
+Cut manual data lookup time with custom REST APIs
+
+</td>
+<td align="center" width="25%">
+
+### `~50%`
+**Faster page loads**
+Migrated 3 legacy jQuery dashboards to React + .NET
+
+</td>
+<td align="center" width="25%">
+
+### `20+`
+**Bugs squashed**
+Across frontend, backend, and SCADA layers
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <br/>
 
@@ -37,10 +82,11 @@ const anand: Engineer = {
   role      : 'Full Stack Engineer',
   location  : 'Singapore 🇸🇬',
   education : 'Diploma in Computer Engineering, Temasek Polytechnic (May 2026)',
-  experience: '6 months @ Willowglen Services (Software Engineer Intern)',
+  experience: '6 months @ Willowglen Services Pte Ltd',
   shipping  : ['PrepSync — AI interview prep', 'FORGE — fitness dashboard'],
   open_to   : ['Software Engineer', 'Full Stack Developer'],
   status    : 'Available immediately for full-time roles in Singapore',
+  principle : 'Ship fast. Iterate faster. Write code that does not need explaining.',
 };
 ```
 
@@ -54,11 +100,12 @@ const anand: Engineer = {
 *Sep 2025 – Feb 2026 · 6 months · Singapore*
 
 ```diff
-+ Built React frontends for industrial monitoring dashboards serving 3+ facility sites
++ Built responsive React frontends for industrial monitoring dashboards
++ Serving 3+ facility sites with sub-second refresh rates
 + Shipped 5+ REST APIs (Node.js → SQL Server) — cut manual lookup time by ~40%
 + Created a library of 10+ reusable HMI screen templates in Ignition SCADA
 + Migrated 3 legacy jQuery dashboards to React + .NET Core — page loads down ~50%
-+ Tracked and fixed 20+ bugs across frontend, backend, and SCADA layers in production
++ Tracked and fixed 20+ bugs across frontend, backend, and SCADA layers
 + Worked on live data pipelines with zero downtime impact
 ```
 
@@ -79,10 +126,11 @@ const anand: Engineer = {
 
 Paste any job description. Get 8 tailored interview questions. Practice with AI-scored feedback. Track improvement over time.
 
-**Engineering highlights:**
-- 3-provider AI fallback chain (Gemini → Groq → OpenRouter) with automatic key rotation across rate limits
-- Structured JD parsing into 7 fields → 8 skill-mapped questions (technical, behavioral, situational)
-- 7 API routes backed by Supabase PostgreSQL with Row Level Security (3 policies)
+**Engineering highlights**
+
+- 3-provider AI fallback chain (Gemini 2.0 Flash → Groq Llama 3.3 70B → OpenRouter) with automatic key rotation
+- AI parses raw JDs into 7 structured fields, then generates 8 skill-mapped questions (technical / behavioural / situational)
+- 7 API routes backed by Supabase PostgreSQL with Row Level Security and indexed JSONB queries
 - Google OAuth via Supabase PKCE flow + Zustand state with localStorage persistence
 - 12 React components, 5 custom UI primitives, full dark theme with Framer Motion
 
@@ -103,16 +151,17 @@ Gemini API · Groq API · OpenRouter · Vercel
 <td width="50%" valign="top">
 
 ### 🔥 FORGE
-**Cinematic Fitness & Hypertrophy Dashboard**
+**AI-Powered Fitness & Hypertrophy Dashboard**
 
 Personal fitness command centre covering workouts, nutrition, body measurements, and progress photos. Shared with my crew. Built because spreadsheets were killing the vibe.
 
-**Engineering highlights:**
+**Engineering highlights**
+
 - 6 server-side AI actions (briefing, plateau diagnosis, exercise swap, meal suggest, autoscale, stall) with 5-key rotation per provider
 - Custom calculations engine: Mifflin-St Jeor TDEE, Epley 1RM, carb cycling, progressive overload detection
 - 8 RLS-scoped PostgreSQL tables + private Supabase Storage with 1-hour signed URLs for photo privacy
-- 3 Zustand stores hydrated via a single batched server action (`fetchSyncBundle`)
-- Graceful demo mode — runs entirely on seed data when env vars are absent
+- 3 Zustand stores hydrated via a single batched server action
+- Graceful demo mode — runs on synthetic data when env vars are absent
 
 ```
 Next.js 16 · React 19 · TypeScript · Tailwind 4
@@ -147,6 +196,7 @@ Framer Motion · Recharts · Zustand · Vercel
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
@@ -168,6 +218,7 @@ Framer Motion · Recharts · Zustand · Vercel
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
+![EF Core](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 **DevOps & Testing**
 
@@ -184,7 +235,7 @@ Framer Motion · Recharts · Zustand · Vercel
 
 ---
 
-## ✦ Stats
+## ✦ GitHub Stats
 
 <br/>
 
@@ -199,7 +250,11 @@ Framer Motion · Recharts · Zustand · Vercel
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codyninja-04&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codyninja-04&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" />
+
+<br/><br/>
+
+![Snake animation](https://raw.githubusercontent.com/codyninja-04/codyninja-04/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -213,7 +268,7 @@ Framer Motion · Recharts · Zustand · Vercel
 
 ### Building, shipping, looking for the next role.
 
-If you're hiring or just want to talk tech, my inbox is open.
+If you are hiring or just want to talk tech, my inbox is open.
 
 <br/>
 
