@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:1e1b4b,80:312e81,100:6366f1&height=240&section=header&text=Anand%20Harsh%20Vardhan%20Rai&fontSize=40&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20Engineer%20%E2%80%94%20I%20ship%20production%20systems%20that%20stay%20up&descAlignY=62&descSize=15&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:1e1b4b,80:312e81,100:6366f1&height=240&section=header&text=Anand%20Harsh%20Vardhan%20Rai&fontSize=40&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20Engineer%20based%20in%20Singapore&descAlignY=62&descSize=16&animation=fadeIn" />
 
 <br/>
 
@@ -23,13 +23,13 @@
 
 <br/>
 
-> Full-stack engineer with 6 months of production experience building React dashboards and REST APIs for live industrial systems. I write clean code, ship working features, and care about the details that turn a working app into a real product.
+> Full stack engineer based in Singapore. Spent the last 6 months at Willowglen Services building React dashboards and REST APIs for live industrial systems. I care about writing code that does what it says, fixing the details most people skip, and shipping things that hold up in production.
 
 <br/>
 
 ---
 
-## ✦ By The Numbers
+## ✦ By the numbers
 
 <br/>
 
@@ -41,21 +41,21 @@
 
 ### `6 months`
 **Production experience**
-Live industrial systems @ Willowglen
+Live industrial systems at Willowglen Services
 
 </td>
 <td align="center" width="25%">
 
 ### `~40%`
 **Faster operations**
-Cut manual data lookup time with custom REST APIs
+Cut manual lookup time with custom REST APIs
 
 </td>
 <td align="center" width="25%">
 
 ### `~50%`
 **Faster page loads**
-Migrated 3 legacy jQuery dashboards to React + .NET
+Migrated 3 legacy jQuery dashboards to React and .NET
 
 </td>
 <td align="center" width="25%">
@@ -82,11 +82,10 @@ const anand: Engineer = {
   role      : 'Full Stack Engineer',
   location  : 'Singapore 🇸🇬',
   education : 'Diploma in Computer Engineering, Temasek Polytechnic (May 2026)',
-  experience: '6 months @ Willowglen Services Pte Ltd',
-  shipping  : ['PrepSync — AI interview prep', 'FORGE — fitness dashboard'],
+  experience: '6 months at Willowglen Services Pte Ltd',
+  shipping  : ['PrepSync', 'FORGE'],
   open_to   : ['Software Engineer', 'Full Stack Developer'],
-  status    : 'Available immediately for full-time roles in Singapore',
-  principle : 'Ship fast. Iterate faster. Write code that does not need explaining.',
+  status    : 'Available immediately for full time roles in Singapore',
 };
 ```
 
@@ -96,24 +95,26 @@ const anand: Engineer = {
 
 ## ✦ Experience
 
-### `Software Engineer Intern` — Willowglen Services Pte Ltd
-*Sep 2025 – Feb 2026 · 6 months · Singapore*
+### `Software Engineer Intern` at Willowglen Services Pte Ltd
+*Sep 2025 to Feb 2026 · 6 months · Singapore*
 
 ```diff
 + Built responsive React frontends for industrial monitoring dashboards
 + Serving 3+ facility sites with sub-second refresh rates
-+ Shipped 5+ REST APIs (Node.js → SQL Server) — cut manual lookup time by ~40%
++ Shipped 5+ REST APIs in Node.js talking to SQL Server
++ Cut manual data lookup time for operations staff by roughly 40%
 + Created a library of 10+ reusable HMI screen templates in Ignition SCADA
-+ Migrated 3 legacy jQuery dashboards to React + .NET Core — page loads down ~50%
-+ Tracked and fixed 20+ bugs across frontend, backend, and SCADA layers
-+ Worked on live data pipelines with zero downtime impact
++ Migrated 3 legacy jQuery dashboards to React and .NET Core
++ Average page load time dropped by roughly 50%
++ Tracked down and fixed 20+ bugs across frontend, backend, and SCADA layers
++ Worked on live data pipelines without taking down production
 ```
 
 <br/>
 
 ---
 
-## ✦ Featured Projects
+## ✦ Featured projects
 
 <br/>
 
@@ -122,17 +123,17 @@ const anand: Engineer = {
 <td width="50%" valign="top">
 
 ### 🧠 PrepSync
-**AI-Powered Interview Preparation Platform**
+**AI powered interview prep platform**
 
-Paste any job description. Get 8 tailored interview questions. Practice with AI-scored feedback. Track improvement over time.
+Paste any job description. Get 8 tailored interview questions. Practice with AI scored feedback. Track how you improve over time.
 
-**Engineering highlights**
+**What's interesting about it**
 
-- 3-provider AI fallback chain (Gemini 2.0 Flash → Groq Llama 3.3 70B → OpenRouter) with automatic key rotation
-- AI parses raw JDs into 7 structured fields, then generates 8 skill-mapped questions (technical / behavioural / situational)
+- Three provider AI fallback chain (Gemini 2.0 Flash to Groq Llama 3.3 70B to OpenRouter) with automatic key rotation so it keeps working through rate limits
+- AI parses raw job descriptions into 7 structured fields, then generates 8 skill mapped questions split across technical, behavioural, and situational
 - 7 API routes backed by Supabase PostgreSQL with Row Level Security and indexed JSONB queries
-- Google OAuth via Supabase PKCE flow + Zustand state with localStorage persistence
-- 12 React components, 5 custom UI primitives, full dark theme with Framer Motion
+- Google OAuth via Supabase PKCE flow, Zustand state with localStorage persistence
+- 12 React components, 5 custom UI primitives, full dark theme with Framer Motion transitions
 
 ```
 Next.js 16 · React 19 · TypeScript · Tailwind 4
@@ -151,17 +152,18 @@ Gemini API · Groq API · OpenRouter · Vercel
 <td width="50%" valign="top">
 
 ### 🔥 FORGE
-**AI-Powered Fitness & Hypertrophy Dashboard**
+**AI powered fitness and hypertrophy dashboard**
 
-Personal fitness command centre covering workouts, nutrition, body measurements, and progress photos. Shared with my crew. Built because spreadsheets were killing the vibe.
+Personal fitness dashboard I built for myself and ended up sharing with friends. Tracks workouts, nutrition, body measurements, and progress photos in one place. Started it because my gym spreadsheets were getting out of hand.
 
-**Engineering highlights**
+**What's interesting about it**
 
-- 6 server-side AI actions (briefing, plateau diagnosis, exercise swap, meal suggest, autoscale, stall) with 5-key rotation per provider
-- Custom calculations engine: Mifflin-St Jeor TDEE, Epley 1RM, carb cycling, progressive overload detection
-- 8 RLS-scoped PostgreSQL tables + private Supabase Storage with 1-hour signed URLs for photo privacy
-- 3 Zustand stores hydrated via a single batched server action
-- Graceful demo mode — runs on synthetic data when env vars are absent
+- 6 server side AI actions covering daily briefings, plateau diagnosis, exercise swap suggestions, meal suggestions, and workout autoscaling
+- Three provider AI fallback with 5 key rotation per provider
+- Custom calculations engine for Mifflin St Jeor TDEE, Epley 1RM, carb cycling macros, and progressive overload detection
+- 8 RLS scoped PostgreSQL tables plus private Supabase Storage with 1 hour signed URLs for photo privacy
+- 3 Zustand stores hydrated through a single batched server action so the dashboard loads in one round trip
+- Graceful demo mode that runs on synthetic data when env vars are missing
 
 ```
 Next.js 16 · React 19 · TypeScript · Tailwind 4
@@ -220,7 +222,7 @@ Framer Motion · Recharts · Zustand · Vercel
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
 ![EF Core](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-**DevOps & Testing**
+**DevOps and testing**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
@@ -235,7 +237,7 @@ Framer Motion · Recharts · Zustand · Vercel
 
 ---
 
-## ✦ GitHub Stats
+## ✦ GitHub stats
 
 <br/>
 
