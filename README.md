@@ -17,7 +17,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anand-harsh-vardhan-rai-a1a17a1ab)&nbsp;
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anandharshvardhanrai@gmail.com)&nbsp;
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anandharshvardhan9999@gmail.com)&nbsp;
 [![Open to Work](https://img.shields.io/badge/-Open%20To%20Work-16a34a?style=for-the-badge&logo=checkmarx&logoColor=white)](#)
 
 </div>
@@ -29,7 +29,7 @@
 ```javascript
 const anand = {
   role      : "Full Stack Developer",
-  education : "Diploma in Computer Engineering @ Temasek Polytechnic '25",
+  education : "Diploma in Computer Engineering @ Temasek Polytechnic '26",
   location  : "Singapore 🇸🇬",
   looking   : ["Software Engineer", "Full Stack Developer"],
   stack     : ["React", "Node.js", "Python", "PostgreSQL", "MongoDB"],
