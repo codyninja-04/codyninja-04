@@ -81,7 +81,7 @@ const anand: Engineer = {
   name      : 'Anand Harsh Vardhan Rai',
   role      : 'Full Stack Engineer',
   location  : 'Singapore 🇸🇬',
-  education : 'Diploma in Computer Engineering, Temasek Polytechnic (May 2026)',
+  education : 'Diploma in Computer Engineering & Btech CEN',
   experience: '6 months at Willowglen Services Pte Ltd',
   shipping  : ['PrepSync', 'FORGE'],
   open_to   : ['Software Engineer', 'Full Stack Developer'],
